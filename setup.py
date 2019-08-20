@@ -10,8 +10,8 @@ setuptools.setup(
     author_email="ehsan.montahaei@gmail.com",
     description="A general purpose batch manager.",
     long_description=long_description,
-    long_description_content_type="text/BatchManager",
-    url="https://github.com/Ehsan-MAE/PrettyConfig",
+    long_description_content_type="text/markdown",
+    url="https://github.com/Ehsan-MAE/BatchManager",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
